@@ -1,4 +1,8 @@
 myfile2 v1 extra words v2
+<<<<<<< HEAD
 edit local test_branch 9:10
 
 
+=======
+add: github, 22.12. 8:56 test_branch
+>>>>>>> 6a34b0ae0e27b99b15c805de47f3429232ca35cb
